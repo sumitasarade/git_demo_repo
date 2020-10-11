@@ -4,3 +4,7 @@ a3
 a4
 a5....
 a6
+stashing for apply
+for branch b2
+
+
